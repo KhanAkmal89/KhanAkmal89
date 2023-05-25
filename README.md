@@ -5,17 +5,7 @@
 
 
 My name is Akmal Khan Nabab and I am a PHP Laravel web developer with over 2 years of experience. I am passionate about building high-quality, user-friendly web applications. I am proficient in all aspects of the web development process, from design and development to testing and deployment. I am also an expert in the Laravel framework, which I use to build scalable, secure, and efficient web applications.
-
-Here are some of my skills and experience:
-
--> Proficient in PHP, Laravel, MySQL, and other web development technologies
--> Experience with all aspects of the web development process, from . design and development to testing and deployment
--> Expert in the Laravel framework
--> Highly motivated and results-oriented
--> Team player and always willing to help others
-
 If you are interested in learning more about me, please feel free to contact me. I would be happy to discuss my skills and experience with you in more detail.
-
 Thank you for your time and consideration.
 
 Skills: PHP, Laravel, VUE JS / REACT / JS / HTML / CSS
